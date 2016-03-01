@@ -7,5 +7,4 @@ The function is to dial a prescribed number onto a phone, this taught me the fun
 https://play.google.com/store/apps/details?id=com.aryan.dialerap
 
 <img width="309" alt="ckjdksjcflksd" src="https://cloud.githubusercontent.com/assets/16159880/13413242/1aa8f96a-df17-11e5-87b3-e18146c3d34b.PNG">
-<img width="310" alt="ksaksa ks" src="https://cloud.githubusercontent.com/assets/16159880/13413244/1caf85f8-df17-11e5-95c6-2a63d984ae87.PNG">
-<img width="310" alt="ksaksa ks" src="https://cloud.githubusercontent.com/assets/16159880/13413265/3c945452-df17-11e5-8392-d0a75ca630a8.PNG">
+<img width="319" alt="lshjdxljsdj" src="https://cloud.githubusercontent.com/assets/16159880/13413271/4a642a3a-df17-11e5-92b0-de17d5335226.PNG"><img width="310" alt="ksaksa ks" src="https://cloud.githubusercontent.com/assets/16159880/13413265/3c945452-df17-11e5-8392-d0a75ca630a8.PNG">
